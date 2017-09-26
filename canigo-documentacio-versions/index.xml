@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Arquitectura CTTI. Generalitat de Catalunya </title>
+    <link>http://canigo.ctti.gencat.cat/canigo-documentacio-versions/index.xml</link>
+    <language>ca-Es</language>
+    
+    
+    <updated>Tue, 02 Jun 2015 17:11:42 &#43;0100</updated>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+         
+    <item>
+      <title>
+        
+          BLOG. 
+        
+        Hibridació de l&#39;autenticació i de la gestió d&#39;identitats amb Office365
+      </title>
+      <link>http://canigo.ctti.gencat.cat/blog/2017/09/hibridacio-office365/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://canigo.ctti.gencat.cat/blog/2017/09/hibridacio-office365/</guid>
+      <description>Arquitectura implementada per a assolir la hibridació de la capa de gestió d&#39;identitats i de control d&#39;accés amb l&#39;Office365 de la Generalitat</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC. Actualització a Nexus 3
+      </title>
+      <link>http://canigo.ctti.gencat.cat/noticies/2017-09-08-SIC-Nexus3/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://canigo.ctti.gencat.cat/noticies/2017-09-08-SIC-Nexus3/</guid>
+      <description>Aquest mes d&#39;Agost ha estat actualitzat el Nexus del SIC de la versió 2.11 a la 3.2.1. Gràcies a aquesta actualització es dóna suport a nous tipus de repositoris com Bower, gestor de paquets força utilitzat en la construcció de frontends estàtics</description>
+    </item>
+         
+    <item>
+      <title>
+        
+          BLOG. 
+        
+        Angular: Estat actual i evolució
+      </title>
+      <link>http://canigo.ctti.gencat.cat/blog/2017/09/Angular/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://canigo.ctti.gencat.cat/blog/2017/09/Angular/</guid>
+      <description>Angular és un framework de JavaScript de codi obert, mantingut per Google, utilitzat per desenvolupar aplicacions web d&#39;una única pàgina (SPA). Deriva d&#39;AngularJs, un framework Javascript per a SPAs també mantingut per Google, però del que en conserva ben poques coses més enllà de la similitud del nom</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC 2.0. Funcionament de l&#39;Autoservei d&#39;usuaris al GitLab
+      </title>
+      <link>http://canigo.ctti.gencat.cat/noticies/2017-07-18-SIC-Autoservei-usuaris-SIC2/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://canigo.ctti.gencat.cat/noticies/2017-07-18-SIC-Autoservei-usuaris-SIC2/</guid>
+      <description>Aquest article descriu amb detall el funcionament de l&#39;Autoservei d&#39;usuaris SIC 2.0 al GitLab</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Versions LTS
+      </title>
+      <link>http://canigo.ctti.gencat.cat/noticies/2017-07-05-Canigo-LTS/</link>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://canigo.ctti.gencat.cat/noticies/2017-07-05-Canigo-LTS/</guid>
+      <description>Nova política de versions per el framework Canigó</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC. Nou sistema de gestió de binaris.
+      </title>
+      <link>http://canigo.ctti.gencat.cat/noticies/2017-07-05-SIC-Gestio-binaris/</link>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://canigo.ctti.gencat.cat/noticies/2017-07-05-SIC-Gestio-binaris/</guid>
+      <description>A data 27/06/2017 es va publicar el nou sistema de gestió de binaris del SIC.</description>
+    </item>
+         
+    <item>
+      <title>
+        
+          BLOG. 
+        
+        Google Cloud Next 17
+      </title>
+      <link>http://canigo.ctti.gencat.cat/blog/2017/06/GoogleCloudNext17/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://canigo.ctti.gencat.cat/blog/2017/06/GoogleCloudNext17/</guid>
+      <description>Novetats Google Cloud Next 17</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC. Llançament del SIC 2.0
+      </title>
+      <link>http://canigo.ctti.gencat.cat/noticies/2017-06-07-SIC-SIC_2/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://canigo.ctti.gencat.cat/noticies/2017-06-07-SIC-SIC_2/</guid>
+      <description>El passat 31 de Maig es va realitzar la presentació oficial del SIC 2.0. Presentem un resum amb les característiques més importants.</description>
+    </item>
+         
+    <item>
+      <title>
+        
+          BLOG. 
+        
+        Utilització preferent de versions LTS de programari
+      </title>
+      <link>http://canigo.ctti.gencat.cat/blog/2017/06/versions_lts/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://canigo.ctti.gencat.cat/blog/2017/06/versions_lts/</guid>
+      <description>Les versions LTS (Long-Term Support) de programari lliure són les recomanades i a adoptar com a preferents seguint el criteri d&#39;Arquitectura CTTI</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC 2.0: Millores en la gestió d&#39;usuaris i repositoris
+      </title>
+      <link>http://canigo.ctti.gencat.cat/noticies/2017-05-12-SIC-noves-funcionalitats/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://canigo.ctti.gencat.cat/noticies/2017-05-12-SIC-noves-funcionalitats/</guid>
+      <description>Atès la imminent arribada del SIC 2.0, és convenient que tots els usuaris siguin coneixedors de les noves funcionalitats que ofereix aquesta versió. En aquest article, fem un resum dels mòduls de gestió d&#39;usuaris i repositoris.</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+  </channel>
+</rss>

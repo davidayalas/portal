@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog d'Arquitectura del CTTI. Generalitat de Catalunya</title>
+    <link>http://canigo.ctti.gencat.cat/blog_tags/patrons-de-disseny/index.xml</link>
+    <language>ca-Es</language>
+    
+    
+    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Sobre les SDN</title>
+      <link>http://canigo.ctti.gencat.cat/blog/2017/04/SDN-20170401/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://canigo.ctti.gencat.cat/blog/2017/04/SDN-20170401/</guid>
+      <description>Què és i el per què de SDN. Consideracions per dummies que trobem al respecte</description>
+    </item>
+    
+    <item>
+      <title>Tecnologia darrera del Web d&#39;Arquitectura</title>
+      <link>http://canigo.ctti.gencat.cat/blog/2016/11/web-arquitectura/</link>
+      <pubDate>Wed, 09 Nov 2016 00:00:00 UTC</pubDate>
+      
+      <guid>http://canigo.ctti.gencat.cat/blog/2016/11/web-arquitectura/</guid>
+      <description>Us expliquem la tecnologia darrera la web d&#39;arquitectura i com l&#39;utilitzem de base per a part de la R&amp;D que fem a la unitat</description>
+    </item>
+    
+    <item>
+      <title>Cloud-Ready</title>
+      <link>http://canigo.ctti.gencat.cat/blog/2016/09/cloud-ready/</link>
+      <pubDate>Thu, 15 Sep 2016 00:00:00 UTC</pubDate>
+      
+      <guid>http://canigo.ctti.gencat.cat/blog/2016/09/cloud-ready/</guid>
+      <description>Aspectes a tenir en compte en la definició de l&#39;arquitectura d&#39;una aplicació per estar preparada per anar al Cloud</description>
+    </item>
+    
+    <item>
+      <title>(micro)serveis</title>
+      <link>http://canigo.ctti.gencat.cat/blog/2016/08/microserveis/</link>
+      <pubDate>Thu, 04 Aug 2016 00:00:00 UTC</pubDate>
+      
+      <guid>http://canigo.ctti.gencat.cat/blog/2016/08/microserveis/</guid>
+      <description>Introducció al patró de disseny basat en microserveis i les implicacions que té a l&#39;hora de pensar les aplicacions</description>
+    </item>
+    
+    <item>
+      <title>Aplicacions webs modernes: JSF vs REST</title>
+      <link>http://canigo.ctti.gencat.cat/blog/2016/05/rest-vs-jsf/</link>
+      <pubDate>Fri, 13 May 2016 00:00:00 UTC</pubDate>
+      
+      <guid>http://canigo.ctti.gencat.cat/blog/2016/05/rest-vs-jsf/</guid>
+      <description>Us donem una breu explicació d&#39;aquest canvi de paradigma en la capa de presentació</description>
+    </item>
+    
+  </channel>
+</rss>
